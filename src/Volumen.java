@@ -10,6 +10,7 @@ public class Volumen {
 		int radio;
 		System.out.println("Introduce el radio de la esfera");
 		radio=leerradio.nextInt();
+		double volumen;
 
 	}
 
