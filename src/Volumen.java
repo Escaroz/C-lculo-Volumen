@@ -14,6 +14,11 @@ public class Volumen {
 		volumen = (4 * (Math.PI) * (Math.pow(radio,3))/3);
 		System.out.println("El volumen de la esfera es "+volumen);
 		System.out.println("Finalizado Version 1");
+		
+		double area;
+		area = (Math.PI) * (Math.pow(radio, 2));
+		System.out.println("El área de la esfera es "+area);
+		System.out.println("Finalizado Version 2");
 
 	}
 
