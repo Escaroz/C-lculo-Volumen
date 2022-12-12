@@ -11,6 +11,7 @@ public class Volumen {
 		System.out.println("Introduce el radio de la esfera");
 		radio=leerradio.nextInt();
 		double volumen;
+		volumen = (4 * (Math.PI) * (Math.pow(radio,3))/3);
 
 	}
 
