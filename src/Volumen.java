@@ -19,6 +19,9 @@ public class Volumen {
 		area = (Math.PI) * (Math.pow(radio, 2));
 		System.out.println("El área de la esfera es "+area);
 		System.out.println("Finalizado Version 2");
+		
+		double longitud;
+		longitud = 2 * (Math.PI)* radio;
 
 	}
 
